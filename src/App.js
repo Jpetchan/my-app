@@ -17,15 +17,15 @@ function App() {
               <picture>
                 <source
                   media="(max-width: 766px)"
-                  srcSet="./my-app/footballer.png 766w"
+                  srcSet="./footballer.png 766w"
                   sizes="766px"
                 />
                 <source
                   media="(max-width: 991px)"
-                  srcSet="./my-app/footballer-2.png 991w"
+                  srcSet="./footballer-2.png 991w"
                   sizes="991px"
                 />
-                <img src="./my-app/footballer.png" alt="footballer" />
+                <img src="./footballer.png" alt="footballer" />
               </picture>
             </div>
           </Col>
@@ -186,15 +186,15 @@ function App() {
               <picture>
                 <source
                   media="(max-width: 766px)"
-                  srcSet="./my-app/basketball.png 766w"
+                  srcSet="./basketball.png 766w"
                   sizes="766px"
                 />
                 <source
                   media="(max-width: 991px)"
-                  srcSet="./my-app/basketball-2.png 991w"
+                  srcSet="./basketball-2.png 991w"
                   sizes="991px"
                 />
-                <img src="./my-app/basketball.png" alt="basketball" />
+                <img src="./basketball.png" alt="basketball" />
               </picture>
             </div>
           </Col>
